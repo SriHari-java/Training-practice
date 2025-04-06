@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SriHari-java/Training-practice/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/SriHari-java/Training-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SriHari-java/Training-practice/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SriHari-java/Training-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SriHari-java/Training-practice/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/SriHari-java/Training-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SriHari-java/Training-practice/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/SriHari-java/Training-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SriHari-java/Training-practice/tree/master/0069-sqrtx) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SriHari-java/Training-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SriHari-java/Training-practice/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SriHari-java/Training-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/SriHari-java/Training-practice/tree/master/0067-add-binary) |
