@@ -13,9 +13,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SriHari-java/Training-practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/SriHari-java/Training-practice/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SriHari-java/Training-practice/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/SriHari-java/Training-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SriHari-java/Training-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SriHari-java/Training-practice/tree/master/0070-climbing-stairs) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SriHari-java/Training-practice/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SriHari-java/Training-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/SriHari-java/Training-practice/tree/master/0067-add-binary) |
 ## String Matching
